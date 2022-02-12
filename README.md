@@ -19,6 +19,7 @@ software which enables the use of this currency.
 
 For more information read the original Bitcoin whitepaper.
 
+
 License
 -------
 
